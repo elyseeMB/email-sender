@@ -1,0 +1,6 @@
+Elysee
+
+Hi {{.RecipientFullName}},
+
+hello world from {{.SenderCompanyName }}
+By Elysee
